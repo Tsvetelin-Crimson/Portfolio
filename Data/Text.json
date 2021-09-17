@@ -1,0 +1,32 @@
+{
+    "default": {
+        "title": "What is this site?",
+        "content": [
+           "This is my portfolio site. To see information about my work click on the button (three lines) in the top left."
+        ]
+    },
+    "destinyWheel": {
+        "title": "The first site I made Destiny Wheel",
+        "content": [
+           "This is the first site I made with the help of a friend, since I didn't know HTML and CSS well at the time. It was made to help my friend randomize our loadouts in the game Destiny 2, because it took him way too long to this before. I had the idea, came up to him with it and we made this site after I realized this.",
+           "All of the functionality of this site was implemented by me, i though of the redesign of the site, but still my friend was the one to implement it.",
+           "Site link: {{siteLink}}",
+           "Github link: {{gitHubLink}}"
+        ],
+        "links": {
+            "siteLink": "https://destinywheel.chuchukov.ga/",
+            "gitHubLink": "https://github.com/Tsvetelin-Crimson/DestinyWheel"
+        }
+    },
+    "destinyCustoms": {
+        "title": "The site I made during the ASP.NET course in SoftUni (Software University)",
+        "content": [
+           "As the title says this is the site that i made to complete the ASP.NET Core course in SoftUni, it was made mostly to practice most of the things I learnt in said course, but don't let that deceive you, even though the site does not look particularly well, the site is very user friendly and (from what I can tell) users can not easily hack into it.",
+           "Sadly I had difficulty deploying this site so it only has a github link.",
+           "Github link: {{gitHubLink}}"
+        ],
+        "links": {
+            "gitHubLink": "https://github.com/Tsvetelin-Crimson/DestinyCustoms"
+        }
+    }
+}
